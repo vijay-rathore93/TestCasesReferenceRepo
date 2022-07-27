@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyDentalClinic.iml" filepath="$PROJECT_DIR$/.idea/MyDentalClinic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DentalPortal/dentalportal.iml" filepath="$PROJECT_DIR$/DentalPortal/dentalportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserManagement/usermanagement.iml" filepath="$PROJECT_DIR$/UserManagement/usermanagement.iml" />
+    </modules>
+  </component>
+</project>

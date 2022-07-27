@@ -1,0 +1,13 @@
+**/.mvn
+**/.mvn/*
+**/mnvw
+**/mvnw*
+.DS_Store
+target
+target/*
+.mvnw
+**/target
+**/target/*
+**/.mvnw
+MyDentalClinic.iml
+

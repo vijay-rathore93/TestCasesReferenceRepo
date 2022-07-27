@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Dental Portal Project
+server:
+  port: 9010

@@ -1,0 +1,22 @@
+package com.dentalportal.utils;
+
+public enum Permissions {
+    CREATE_PATIENT,
+    MODIFY_PATIENT,
+    DELETE_PATIENT,
+    GET_PATIENT,
+    GET_PATIENTS,
+    CREATE_DOCTOR,
+    MODIFY_DOCTOR,
+    DELETE_DOCTOR,
+    CREATE_NURSE,
+    CREATE_ASSISTANT,
+    GET_NURSE,
+    GET_ASSISTANT,
+    MODIFY_NURSE,
+    MODIFY_ASSISTANT,
+    DELETE_NURSE,
+    DELETE_ASSISTANT,
+    ALL
+    ;
+}
